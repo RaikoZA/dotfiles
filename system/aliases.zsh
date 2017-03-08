@@ -13,3 +13,4 @@ alias mounted='mount | column –t'
 alias tar-gz='tar -zcvf'
 alias untar-gz='tar -zxvf'
 alias docker-rm-all="docker ps -a | grep 'Exited' | awk '{print $1}'"
+alias composer="php /usr/local/bin/composer.phar"
