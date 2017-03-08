@@ -29,6 +29,7 @@ set noswapfile
 set nowritebackup
 
 " Show line numbers and lenght
+set relativenumber
 set number
 set nowrap
 
